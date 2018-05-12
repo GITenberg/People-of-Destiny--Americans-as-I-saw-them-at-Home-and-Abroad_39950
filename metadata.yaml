@@ -1,0 +1,36 @@
+_repo: People-of-Destiny--Americans-as-I-saw-them-at-Home-and-Abroad_39950
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gibbs, Philip
+    aliases:
+    - Gibbs, Philip Hamilton, Sir
+    - Gibbs, Phillip
+    birthdate: 1877
+    deathdate: 1962
+    gutenberg_agent_id: '1174'
+    url: http://www.gutenberg.org/2009/agents/1174
+    wikipedia: http://en.wikipedia.org/wiki/Philip_Gibbs
+description: ''
+gutenberg_issued: '2012-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39950'
+  lccn: '20017298'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social life and customs -- 1865-1918'
+- !lcsh 'United States -- Social life and customs -- 1918-1945'
+- !lcc 'E151'
+- !lcsh 'National characteristics, American'
+tableOfContents: The adventure of life in New York -- Some people I met in America
+  -- Things I like in the United States -- America's new place in the world -- What
+  England thinks of America -- Americans in Europe.
+title: 'People of Destiny: Americans as I saw them at Home and Abroad'
+url: http://www.gutenberg.org/ebooks/39950
